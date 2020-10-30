@@ -1,0 +1,5 @@
+Ala,Ma,kota.pl
+kot,ma,koty.pl
+jim,tom,www.jimtom.com
+John,Rambo,www.bambo.pl
+John,Rambo,www.bambo.pl
